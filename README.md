@@ -64,3 +64,6 @@ The last two rows are the most personally significant. A large part of my curren
 - **Geography.** I could not verify a single Lebanon-based listing from a source that can be independently re-opened; Lebanese job boards (Bayt, HireLebanese) either block automated access or list roles without durable per-job URLs. The nine listings are therefore Europe, MENA-adjacent, North America, LATAM and Asia — but seven of the nine are remote or remote-eligible, which is realistically how a Beirut-based junior developer would enter this market anyway.
 - **Seniority skew.** Only 1 of the 9 listings is genuinely open to someone with 1–2 years' experience. Published full-stack listings skew senior. This does not invalidate the skill signal, but it does mean my roadmap has to treat the portfolio as the substitute for the years I don't have.
 - **Listings expire.** Job posts are removed constantly. Every link in `sources.md` was live when this was written; see the verification note in that file.
+## Submission Branch
+
+This assignment was completed on the `assignment-02-samiha-moghraby` branch for TechTalks review.
