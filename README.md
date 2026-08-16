@@ -67,3 +67,6 @@ The last two rows are the most personally significant. A large part of my curren
 ## Submission Branch
 
 This assignment was completed on the `assignment-02-samiha-moghraby` branch for TechTalks review.
+## TechTalks Submission
+
+Assignment 2 submitted for TechTalks Full-Stack Bootcamp review.
